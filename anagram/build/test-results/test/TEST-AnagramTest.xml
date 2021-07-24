@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnagramTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-07-23T13:15:38" hostname="Rickys-Laptop" time="0.085">
+  <properties/>
+  <testcase name="detects anagrams case-insensitively" classname="AnagramTest" time="0.075"/>
+  <testcase name="detects two anagrams" classname="AnagramTest" time="0.001"/>
+  <testcase name="anagrams must use all letters exactly once" classname="AnagramTest" time="0.002"/>
+  <testcase name="detects three anagrams" classname="AnagramTest" time="0.001"/>
+  <testcase name="detects anagram" classname="AnagramTest" time="0.001"/>
+  <testcase name="words other than themselves can be anagrams" classname="AnagramTest" time="0.0"/>
+  <testcase name="detects anagrams using case-insensitive subject" classname="AnagramTest" time="0.0"/>
+  <testcase name="words are not anagrams of themselves (case-insensitive)" classname="AnagramTest" time="0.0"/>
+  <testcase name="does not detect anagram subsets" classname="AnagramTest" time="0.0"/>
+  <testcase name="detects anagrams using case-insensitive possible matches" classname="AnagramTest" time="0.001"/>
+  <testcase name="does not detect non-anagrams with identical checksum" classname="AnagramTest" time="0.0"/>
+  <testcase name="does not detect an anagram if the original word is repeated" classname="AnagramTest" time="0.0"/>
+  <testcase name="detects multiple anagrams with different case" classname="AnagramTest" time="0.0"/>
+  <testcase name="no matches" classname="AnagramTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

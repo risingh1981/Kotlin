@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AcronymTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-07-23T14:08:16" hostname="Rickys-Laptop" time="0.068">
+  <properties/>
+  <testcase name="hyphen is ignored" classname="AcronymTest" time="0.063"/>
+  <testcase name="uppercased word at the start" classname="AcronymTest" time="0.001"/>
+  <testcase name="underscore emphasis is ignored" classname="AcronymTest" time="0.0"/>
+  <testcase name="punctuation is ignored" classname="AcronymTest" time="0.0"/>
+  <testcase name="lots of words" classname="AcronymTest" time="0.001"/>
+  <testcase name="apostrophe is ignored" classname="AcronymTest" time="0.0"/>
+  <testcase name="capitalized words" classname="AcronymTest" time="0.001"/>
+  <testcase name="lowercase word in the middle" classname="AcronymTest" time="0.001"/>
+  <testcase name="consecutive delimiters" classname="AcronymTest" time="0.0"/>
+  <system-out><![CDATA[[Complementary, metal, oxide, semiconductor]
+[GNU, Image, Manipulation, Program]
+[The, Road, , Not, , Taken]
+[First, In,, First, Out]
+[Rolling, On, The, Floor, Laughing, So, Hard, That, My, Dogs, Came, Over, And, Licked, Me]
+[Halley's, Comet]
+[Portable, Network, Graphics]
+[Ruby, on, Rails]
+[Something, , , I, made, up, from, thin, air]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
