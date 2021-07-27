@@ -1,0 +1,27 @@
+ In convTo10, value of value: 5
+base10: 5
+newDigits: [1, 0, 1]
+!In convTo10, value of value: 42
+base10: 42
+newDigits: [1, 0, 1, 0, 1, 0]
+ In convTo10, value of value: 5
+base10: 5
+newDigits: [5]
+!In convTo10, value of value: 42
+base10: 42
+newDigits: [2, 10]
+	!In convTo10, value of value: 42
+	base10: 42
+	newDigits: [1, 1, 2, 0]
+ In convTo10, value of value: 0
+base10: 0
+newDigits: [0]
+!In convTo10, value of value: 42
+base10: 42
+newDigits: [4, 2]
+$In convTo10, value of value: 32749
+base10: 32749
+newDigits: [6, 10, 45]
+ In convTo10, value of value: 1
+base10: 1
+newDigits: [1]

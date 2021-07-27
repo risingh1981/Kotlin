@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DequeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-26T14:47:23" hostname="Rickys-Laptop" time="0.031">
+  <properties/>
+  <testcase name="example" classname="DequeTest" time="0.029"/>
+  <testcase name="pushShift" classname="DequeTest" time="0.0"/>
+  <testcase name="unshiftShift" classname="DequeTest" time="0.0"/>
+  <testcase name="pushPop" classname="DequeTest" time="0.0"/>
+  <testcase name="unshiftPop" classname="DequeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

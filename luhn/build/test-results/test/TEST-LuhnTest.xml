@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LuhnTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-07-27T11:02:03" hostname="Rickys-Laptop" time="0.051">
+  <properties/>
+  <testcase name="valid | even amount of digits" classname="LuhnTest" time="0.042"/>
+  <testcase name="invalid | symbols in valid" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | a single zero" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | single zero with space" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid | Canadian" classname="LuhnTest" time="0.001"/>
+  <testcase name="valid | many zeros" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | ascii value for non-doubled non-digit in the middle" classname="LuhnTest" time="0.001"/>
+  <testcase name="valid | odd amount of spaces" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid | simple reversable" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | Canadian" classname="LuhnTest" time="0.001"/>
+  <testcase name="valid | input digit 9" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | punctuation in valid" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | single digit" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | non-digit at the end of valid" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid | credit card" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid | simple unreversable" classname="LuhnTest" time="0.001"/>
+  <testcase name="invalid | ascii value for non-doubled non-digit at the start" classname="LuhnTest" time="0.0"/>
+  <system-out><![CDATA[[8, 8, 5, 4, 2, 5, 9, 0]
+[5, 8, 2, 4, 4, 4, 5, 5, 0]
+[0, 0, 0, 0, 0]
+[4, 3, 2, 1, 9, 8, 7, 6, 5, 4, 3, 2]
+[9, 5, 0]
+[6, 8, 2, 4, 4, 4, 5, 5, 0]
+[1, 9, 0]
+[9, 6, 5, 0, 2, 5, 3, 7, 2, 3, 2, 1, 3, 7, 2, 8]
+[9, 5]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

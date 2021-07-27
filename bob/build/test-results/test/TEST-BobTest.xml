@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BobTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2021-07-26T19:39:21" hostname="Rickys-Laptop" time="0.072">
+  <properties/>
+  <testcase name="shoutingWithSpecialCharacters" classname="BobTest" time="0.057"/>
+  <testcase name="statementContainingQuestionMark" classname="BobTest" time="0.0"/>
+  <testcase name="nonLettersWithQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="nonQuestionEndingWithWhitespace" classname="BobTest" time="0.0"/>
+  <testcase name="askingANumericQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="shoutingWithNoExclamationMark" classname="BobTest" time="0.0"/>
+  <testcase name="endingWithWhitespace" classname="BobTest" time="0.001"/>
+  <testcase name="prolongedSilence" classname="BobTest" time="0.001"/>
+  <testcase name="startingWithWhitespace" classname="BobTest" time="0.0"/>
+  <testcase name="alternateSilence" classname="BobTest" time="0.0"/>
+  <testcase name="talkingForcefully" classname="BobTest" time="0.0"/>
+  <testcase name="multipleLineQuestion" classname="BobTest" time="0.001"/>
+  <testcase name="prattlingOn" classname="BobTest" time="0.0"/>
+  <testcase name="shouting" classname="BobTest" time="0.0"/>
+  <testcase name="forcefulQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="askingAQuestion" classname="BobTest" time="0.002"/>
+  <testcase name="otherWhitespace" classname="BobTest" time="0.001"/>
+  <testcase name="shoutingNumbers" classname="BobTest" time="0.0"/>
+  <testcase name="noLetters" classname="BobTest" time="0.001"/>
+  <testcase name="shoutingGibberish" classname="BobTest" time="0.0"/>
+  <testcase name="askingGibberish" classname="BobTest" time="0.0"/>
+  <testcase name="usingAcronymsInRegularSpeech" classname="BobTest" time="0.0"/>
+  <testcase name="statingSomething" classname="BobTest" time="0.001"/>
+  <testcase name="silence" classname="BobTest" time="0.0"/>
+  <testcase name="questionWithNoLetters" classname="BobTest" time="0.0"/>
+  <system-out><![CDATA[.ZOMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!.
+.Ending with ? means a question..
+.:) ?.
+.This is a statement ending with whitespace.
+.You are, what, like 15?.
+.I HATE THE DMV.
+.Okay if like my  spacebar  quite a bit?.
+..
+.hmmmmmmm....
+..
+.Let's go make out behind the gym!.
+.Does this cryogenic chamber make me look fat?
+no.
+.Wait! Hang on. Are you going to be OK?.
+.WATCH OUT!.
+.WHAT THE HELL WERE YOU THINKING?.
+.Does this cryogenic chamber make me look fat?.
+..
+.1, 2, 3 GO!.
+.1, 2, 3.
+.FCECDFCAAB.
+.fffbbcbeab?.
+.It's OK if you don't want to go to the DMV..
+.Tom-ay-to, tom-aaaah-to..
+..
+.4?.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

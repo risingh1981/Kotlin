@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoardTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-07-24T13:52:05" hostname="Rickys-Laptop" time="0.031">
+  <properties/>
+  <testcase name="per square | 16" classname="BoardTest" time="0.027"/>
+  <testcase name="per square | 32" classname="BoardTest" time="0.0"/>
+  <testcase name="per square | 64" classname="BoardTest" time="0.001"/>
+  <testcase name="invalid input | square 0" classname="BoardTest" time="0.0"/>
+  <testcase name="invalid input | negative square" classname="BoardTest" time="0.0"/>
+  <testcase name="total | all grains on board" classname="BoardTest" time="0.0"/>
+  <testcase name="invalid input | square after 64" classname="BoardTest" time="0.0"/>
+  <testcase name="per square | 1" classname="BoardTest" time="0.0"/>
+  <testcase name="per square | 2" classname="BoardTest" time="0.0"/>
+  <testcase name="per square | 3" classname="BoardTest" time="0.0"/>
+  <testcase name="per square | 4" classname="BoardTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

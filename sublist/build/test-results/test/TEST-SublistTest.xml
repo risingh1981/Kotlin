@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SublistTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-07-26T16:48:19" hostname="Rickys-Laptop" time="0.051">
+  <properties/>
+  <testcase name="testEmptyListIsSublistOfNonEmptyList" classname="SublistTest" time="0.037"/>
+  <testcase name="testThatListsWithSameDigitsButDifferentNumbersAreUnequal" classname="SublistTest" time="0.005"/>
+  <testcase name="testSublistCheckDoesNotAbortAfterFalseStart" classname="SublistTest" time="0.0"/>
+  <testcase name="testInMiddleOfSuperlist" classname="SublistTest" time="0.0"/>
+  <testcase name="testListIsEqualToItself" classname="SublistTest" time="0.0"/>
+  <testcase name="testDifferentListsOfTheSameLengthAreUnequal" classname="SublistTest" time="0.0"/>
+  <testcase name="testSublistAtEnd" classname="SublistTest" time="0.001"/>
+  <testcase name="testAtEndOfSuperlist" classname="SublistTest" time="0.0"/>
+  <testcase name="testSublistInMiddle" classname="SublistTest" time="0.0"/>
+  <testcase name="testSublistAtStart" classname="SublistTest" time="0.001"/>
+  <testcase name="testFirstListMissingElementFromSecondList" classname="SublistTest" time="0.0"/>
+  <testcase name="testSecondListMissingElementFromFirstList" classname="SublistTest" time="0.0"/>
+  <testcase name="testThatListOrderingIsAccountedFor" classname="SublistTest" time="0.0"/>
+  <testcase name="testSublistCheckHandlesExtraneousRepeatsOfFirstEntry" classname="SublistTest" time="0.001"/>
+  <testcase name="testNonEmptyListIsSuperlistOfEmptyList" classname="SublistTest" time="0.001"/>
+  <testcase name="testThatTwoEmptyListsAreConsideredEqual" classname="SublistTest" time="0.0"/>
+  <testcase name="testAtStartOfSuperlist" classname="SublistTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

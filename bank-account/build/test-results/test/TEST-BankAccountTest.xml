@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankAccountTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-26T13:00:07" hostname="Rickys-Laptop" time="31.806">
+  <properties/>
+  <testcase name="zeroBalanceWhenOpened" classname="BankAccountTest" time="0.027"/>
+  <testcase name="closedAccountCannotBeAdjusted" classname="BankAccountTest" time="0.014"/>
+  <testcase name="closedAccountHasNoBalance" classname="BankAccountTest" time="0.0"/>
+  <testcase name="concurrentBalanceAdjustments" classname="BankAccountTest" time="31.762"/>
+  <testcase name="sequentialBalanceAdjustments" classname="BankAccountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

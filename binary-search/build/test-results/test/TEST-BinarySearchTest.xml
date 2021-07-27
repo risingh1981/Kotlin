@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTest" tests="11" skipped="10" failures="0" errors="0" timestamp="2021-07-26T17:21:04" hostname="Rickys-Laptop" time="0.047">
+  <properties/>
+  <testcase name="finds value in the middle of array" classname="BinarySearchTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="finds value at the end of array" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="nothing is found in empty array" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="finds value at the beginning of array" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="finds value in array of even length" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="finds value in array of odd length" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="identifies that value is not included in array" classname="BinarySearchTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="nothing is found when left and right bounds cross" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="value smaller than array's smallest value is not found" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="value larger than array's largest value is not found" classname="BinarySearchTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="finds value in array with one element" classname="BinarySearchTest" time="0.042"/>
+  <system-out><![CDATA[start:0, end:0, mid:0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
