@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-07-31T18:48:11" hostname="Rickys-Laptop" time="0.062">
+  <properties/>
+  <testcase name="series of instructions - moving east and north example" classname="RobotTest" time="0.037"/>
+  <testcase name="moving forward - facing east increments X" classname="RobotTest" time="0.002"/>
+  <testcase name="rotating clockwise - changes north to east" classname="RobotTest" time="0.001"/>
+  <testcase name="rotating counter-clockwise - changes south to east" classname="RobotTest" time="0.001"/>
+  <testcase name="series of instructions - moving east and north" classname="RobotTest" time="0.002"/>
+  <testcase name="rotating counter-clockwise - changes west to south" classname="RobotTest" time="0.002"/>
+  <testcase name="moving forward - facing north increments Y" classname="RobotTest" time="0.001"/>
+  <testcase name="rotating counter-clockwise - changes east to north" classname="RobotTest" time="0.001"/>
+  <testcase name="moving forward - facing south decrements Y" classname="RobotTest" time="0.001"/>
+  <testcase name="rotating clockwise - changes south to west" classname="RobotTest" time="0.001"/>
+  <testcase name="rotating clockwise - changes west to north" classname="RobotTest" time="0.001"/>
+  <testcase name="brand new - at negative position facing south" classname="RobotTest" time="0.001"/>
+  <testcase name="rotating counter-clockwise - changes north to west" classname="RobotTest" time="0.001"/>
+  <testcase name="brand new - at origin facing north" classname="RobotTest" time="0.001"/>
+  <testcase name="rotating clockwise - changes east to south" classname="RobotTest" time="0.001"/>
+  <testcase name="moving forward - facing west decrements X" classname="RobotTest" time="0.001"/>
+  <testcase name="series of instructions - moving west and north" classname="RobotTest" time="0.001"/>
+  <testcase name="series of instructions - moving west and south" classname="RobotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

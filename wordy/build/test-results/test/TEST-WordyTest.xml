@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordyTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2021-07-30T23:36:34" hostname="Rickys-Laptop" time="0.136">
+  <properties/>
+  <testcase name="addition and multiplication" classname="WordyTest" time="0.066"/>
+  <testcase name="subtraction" classname="WordyTest" time="0.0"/>
+  <testcase name="large addition" classname="WordyTest" time="0.001"/>
+  <testcase name="reject problem missing an operand" classname="WordyTest" time="0.0"/>
+  <testcase name="missing operation" classname="WordyTest" time="0.0"/>
+  <testcase name="multiple division" classname="WordyTest" time="0.001"/>
+  <testcase name="addition" classname="WordyTest" time="0.0"/>
+  <testcase name="non math question" classname="WordyTest" time="0.001"/>
+  <testcase name="addition with negative numbers" classname="WordyTest" time="0.0"/>
+  <testcase name="subtraction then addition" classname="WordyTest" time="0.001"/>
+  <testcase name="more addition" classname="WordyTest" time="0.001"/>
+  <testcase name="multiple subtraction" classname="WordyTest" time="0.0"/>
+  <testcase name="power" classname="WordyTest" time="0.002"/>
+  <testcase name="division" classname="WordyTest" time="0.001"/>
+  <testcase name="multiple additions" classname="WordyTest" time="0.0"/>
+  <testcase name="multiple multiplication" classname="WordyTest" time="0.001"/>
+  <testcase name="just a number" classname="WordyTest" time="0.0"/>
+  <testcase name="reject postfix notation" classname="WordyTest" time="0.0"/>
+  <testcase name="multiplication" classname="WordyTest" time="0.001"/>
+  <testcase name="reject two numbers in a row" classname="WordyTest" time="0.0"/>
+  <testcase name="reject prefix notation" classname="WordyTest" time="0.001"/>
+  <testcase name="reject problem with no operands or operators" classname="WordyTest" time="0.0"/>
+  <testcase name="unknown operation" classname="WordyTest" time="0.0"/>
+  <testcase name="addition and subtraction" classname="WordyTest" time="0.0"/>
+  <testcase name="missing number" classname="WordyTest" time="0.011"/>
+  <testcase name="reject two operations in a row" classname="WordyTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

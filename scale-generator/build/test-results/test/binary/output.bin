@@ -1,0 +1,32 @@
+Intervals:1322211
+%outputArr:[G, G#, B, C#, D#, F, F#]
+Intervals:2221221
+%outputArr:[A, B, C#, D#, E, F#, G#]
+Intervals:2212212
+%outputArr:[Eb, F, G, Ab, Bb, C, Db]
+Intervals:22323
+outputArr:[A, B, C#, E, F#]
+Intervals:222222
+ outputArr:[Db, Eb, F, G, A, B]
+Intervals:1221222
+%outputArr:[G, Ab, Bb, C, Db, Eb, F]
+Intervals:2122122
+$outputArr:[F#, G#, A, B, C#, D, E]
+	Intervals:2212221
+	"outputArr:[F, G, A, Bb, C, D, E]
+
+Intervals:2122122
+
+&outputArr:[Bb, C, Db, Eb, F, Gb, Ab]
+Intervals:2122131
+#outputArr:[D, E, F, G, A, Bb, Db]
+Intervals:21212121
+'outputArr:[C, D, D#, F, F#, G#, A, B]
+Intervals:2212221
+!outputArr:[C, D, E, F, G, A, B]
+Intervals:1222122
+!outputArr:[E, F, G, A, B, C, D]
+Intervals:2212221
+"outputArr:[G, A, B, C, D, E, F#]
+Intervals:2122212
+!outputArr:[D, E, F, G, A, B, C]

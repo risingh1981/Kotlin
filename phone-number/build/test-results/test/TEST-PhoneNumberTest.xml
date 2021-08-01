@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneNumberTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-07-27T12:34:19" hostname="Rickys-Laptop" time="0.055">
+  <properties/>
+  <testcase name="valid | 11 digits and starting with 1" classname="PhoneNumberTest" time="0.043"/>
+  <testcase name="invalid | more than 11 digits" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | area code starts with 0" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalid | area code starts with 1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | exchange code starts with 0" classname="PhoneNumberTest" time="0.002"/>
+  <testcase name="invalid | exchange code starts with 1" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="valid | simple number" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | area code starts with 0 on valid 11-digit number" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalid | area code starts with 1 on valid 11-digit number" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | when 11 digits does not start with a 1" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="valid | number with dots" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | 9 digit" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | letters" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="valid | 11 digits starting with 1 with punctuation" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="valid | numbers with multiple spaces" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | exchange code starts with 0 on valid 11-digit number" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalid | exchange code starts with 1 on valid 11-digit number" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid | punctuations" classname="PhoneNumberTest" time="0.0"/>
+  <system-out><![CDATA[In function, toModify:2234567890
+In function, toModify:0234567890
+In function, toModify:1234567890
+In function, toModify:2230567890
+In function, toModify:2231567890
+In function, toModify:2234567890
+In function, toModify:0234567890
+In function, toModify:1234567890
+In function, toModify:2234567890
+In function, toModify:2234567890
+In function, toModify:2234567890
+In function, toModify:2230567890
+In function, toModify:2231567890
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
