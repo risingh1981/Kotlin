@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PascalsTriangleTest" tests="8" skipped="7" failures="0" errors="0" timestamp="2021-08-02T02:08:50" hostname="Rickys-Laptop" time="0.032">
+  <properties/>
+  <testcase name="ten rows" classname="PascalsTriangleTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="five rows" classname="PascalsTriangleTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="zero rows" classname="PascalsTriangleTest" time="0.026"/>
+  <testcase name="tree rows" classname="PascalsTriangleTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="four rows" classname="PascalsTriangleTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="six rows" classname="PascalsTriangleTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="single row" classname="PascalsTriangleTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="two rows" classname="PascalsTriangleTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

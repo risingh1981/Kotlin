@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClockCreationTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2021-08-02T04:51:05" hostname="Rickys-Laptop" time="0.006">
+  <properties/>
+  <testcase name="negative minutes" classname="ClockCreationTest" time="0.001"/>
+  <testcase name="past the hour" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="hour and minutes roll over" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative hour rolls over continuously" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative hour" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative hour rolls over" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="hour rolls over continuously" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="hour and minutes roll over continuously" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="sixty minutes is next hour" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="hour and minutes roll over to exactly midnight" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative sixty minutes is previous hour" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative minutes roll over continuously" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="midnight is zero hours" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative hour and minutes both roll over continuously" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative hour and minutes both roll over" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="on the hour" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="minutes roll over" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="negative minutes roll over" classname="ClockCreationTest" time="0.001"/>
+  <testcase name="minutes roll over continuously" classname="ClockCreationTest" time="0.0"/>
+  <testcase name="hour rolls over" classname="ClockCreationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

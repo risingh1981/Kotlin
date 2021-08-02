@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClockSubtractTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-08-02T04:51:05" hostname="Rickys-Laptop" time="0.004">
+  <properties/>
+  <testcase name="subtract more than two hours with borrow" classname="ClockSubtractTest" time="0.002"/>
+  <testcase name="subtract minutes" classname="ClockSubtractTest" time="0.0"/>
+  <testcase name="subtract across midnight" classname="ClockSubtractTest" time="0.0"/>
+  <testcase name="subtract more than two hours" classname="ClockSubtractTest" time="0.0"/>
+  <testcase name="subtract more than two days" classname="ClockSubtractTest" time="0.0"/>
+  <testcase name="subtract to previous hour" classname="ClockSubtractTest" time="0.0"/>
+  <testcase name="subtract more than one day" classname="ClockSubtractTest" time="0.0"/>
+  <testcase name="subtract more than an hour" classname="ClockSubtractTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

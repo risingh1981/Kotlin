@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatchingBracketsTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-08-02T17:45:31" hostname="Rickys-Laptop" time="0.048">
+  <properties/>
+  <testcase name="test[0: bracket([])=true]" classname="MatchingBracketsTest" time="0.038"/>
+  <testcase name="test[1: bracket()=true]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[2: bracket([[)=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[3: bracket(}{)=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[4: bracket({])=false]" classname="MatchingBracketsTest" time="0.001"/>
+  <testcase name="test[5: bracket({ })=true]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[6: bracket({[]))=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[7: bracket({[]})=true]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[8: bracket({}[])=true]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[9: bracket(([{}({}[])]))=true]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[10: bracket({[)][]})=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[11: bracket(([{]))=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[12: bracket([({]}))=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[13: bracket({}[)=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[14: bracket([]])=false]" classname="MatchingBracketsTest" time="0.0"/>
+  <testcase name="test[15: bracket((((185 + 223.85) * 15) - 543)/2)=true]" classname="MatchingBracketsTest" time="0.001"/>
+  <testcase name="test[16: bracket(\\left(\\begin{array}{cc} \\frac{1}{3} &amp; x\\\\ \\mathrm{e}^{x} &amp;... x^2 \\end{array}\\right))=true]" classname="MatchingBracketsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

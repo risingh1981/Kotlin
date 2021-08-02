@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KindergartenGardenTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-08-02T03:34:48" hostname="Rickys-Laptop" time="0.056">
+  <properties/>
+  <testcase name="two students" classname="KindergartenGardenTest" time="0.052"/>
+  <testcase name="single student" classname="KindergartenGardenTest" time="0.0"/>
+  <testcase name="single student2" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="full garden second to last student" classname="KindergartenGardenTest" time="0.0"/>
+  <testcase name="full garden last student" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="full garden second student" classname="KindergartenGardenTest" time="0.0"/>
+  <testcase name="one garden third student" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="one garden second student" classname="KindergartenGardenTest" time="0.0"/>
+  <testcase name="full garden first student" classname="KindergartenGardenTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
