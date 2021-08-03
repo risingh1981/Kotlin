@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SubstitutionCipherTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-08-03T22:52:38" hostname="Rickys-Laptop" time="0.028">
+  <properties/>
+  <testcase name="can decode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can encode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="is reversible" classname="SubstitutionCipherTest" time="0.001"/>
+  <testcase name="can decode messages longer than the key" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can wrap on decode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can wrap on encode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can double shift encode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can encode messages longer than the key" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="keeps the given key" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can decode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can encode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="is reversible" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can decode messages longer than the key" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can wrap on decode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can wrap on encode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can double shift encode" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="can encode messages longer than the key" classname="SubstitutionCipherTest" time="0.0"/>
+  <testcase name="keeps the given key" classname="SubstitutionCipherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

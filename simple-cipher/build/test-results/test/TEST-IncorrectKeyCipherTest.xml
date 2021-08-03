@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IncorrectKeyCipherTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-08-03T22:52:38" hostname="Rickys-Laptop" time="0.02">
+  <properties/>
+  <testcase name="key cannot be empty" classname="IncorrectKeyCipherTest" time="0.001"/>
+  <testcase name="key cannot contain upper cased letters" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <testcase name="key cannot consist of digits" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <testcase name="key cannot contain digits" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <testcase name="key cannot consist of upper cased letters" classname="IncorrectKeyCipherTest" time="0.001"/>
+  <testcase name="key cannot be empty" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <testcase name="key cannot contain upper cased letters" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <testcase name="key cannot consist of digits" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <testcase name="key cannot contain digits" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <testcase name="key cannot consist of upper cased letters" classname="IncorrectKeyCipherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

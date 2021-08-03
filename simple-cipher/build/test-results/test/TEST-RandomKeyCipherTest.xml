@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RandomKeyCipherTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-08-03T22:52:38" hostname="Rickys-Laptop" time="0.085">
+  <properties/>
+  <testcase name="can decode" classname="RandomKeyCipherTest" time="0.048"/>
+  <testcase name="can encode" classname="RandomKeyCipherTest" time="0.0"/>
+  <testcase name="is reversible" classname="RandomKeyCipherTest" time="0.0"/>
+  <testcase name="default key is of length 100" classname="RandomKeyCipherTest" time="0.001"/>
+  <testcase name="two default generated keys differs" classname="RandomKeyCipherTest" time="0.001"/>
+  <testcase name="key is made only of lowercase letters" classname="RandomKeyCipherTest" time="0.005"/>
+  <testcase name="can decode" classname="RandomKeyCipherTest" time="0.001"/>
+  <testcase name="can encode" classname="RandomKeyCipherTest" time="0.0"/>
+  <testcase name="is reversible" classname="RandomKeyCipherTest" time="0.0"/>
+  <testcase name="default key is of length 100" classname="RandomKeyCipherTest" time="0.001"/>
+  <testcase name="two default generated keys differs" classname="RandomKeyCipherTest" time="0.0"/>
+  <testcase name="key is made only of lowercase letters" classname="RandomKeyCipherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

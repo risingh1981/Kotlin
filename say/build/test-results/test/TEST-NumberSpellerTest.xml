@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NumberSpellerTest" tests="15" skipped="14" failures="0" errors="0" timestamp="2021-08-03T20:53:10" hostname="Rickys-Laptop" time="0.041">
+  <properties/>
+  <testcase name="123 as one hundred twenty-three" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="1234 as one thousand two hundred thirty-four" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="1000000 as one million" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="0 as zero" classname="NumberSpellerTest" time="0.031"/>
+  <testcase name="spell a big number" classname="NumberSpellerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="numbers below zero are out of range" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="1000 as one thousand" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="1002345 as one million two thousand three hundred forty-five" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="numbers above 999,999,999,999 are out of range" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="1 as one" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="20 as twenty" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="1000000000 as one billion" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="100 as one hundred" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="22 as twenty-two" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="14 as fourteen" classname="NumberSpellerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTreeTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-08-03T18:51:21" hostname="Rickys-Laptop" time="0.044">
+  <properties/>
+  <testcase name="sorts single element" classname="BinarySearchTreeTest" time="0.028"/>
+  <testcase name="big tree level order" classname="BinarySearchTreeTest" time="0.01"/>
+  <testcase name="sorts collection of two if second inserted is smaller than first" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="sorts collection of two if second inserted is bigger than first" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="iterates over complex tree" classname="BinarySearchTreeTest" time="0.0"/>
+  <testcase name="data is retained" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="creates complex tree" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="sorts collection of two if second number is same as first" classname="BinarySearchTreeTest" time="0.0"/>
+  <testcase name="inserts less" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="inserts same" classname="BinarySearchTreeTest" time="0.0"/>
+  <testcase name="inserts right" classname="BinarySearchTreeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
