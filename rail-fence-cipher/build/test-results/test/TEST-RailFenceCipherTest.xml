@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RailFenceCipherTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-08-04T03:59:24" hostname="Rickys-Laptop" time="0.039">
+  <properties/>
+  <testcase name="encodeWithTwoRails" classname="RailFenceCipherTest" time="0.035"/>
+  <testcase name="encodeWithEndingInTheMiddle" classname="RailFenceCipherTest" time="0.001"/>
+  <testcase name="decodeWithSixRails" classname="RailFenceCipherTest" time="0.001"/>
+  <testcase name="decodeWithThreeRails" classname="RailFenceCipherTest" time="0.0"/>
+  <testcase name="encodeWithThreeRails" classname="RailFenceCipherTest" time="0.0"/>
+  <testcase name="decodeWithFiveRails" classname="RailFenceCipherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
